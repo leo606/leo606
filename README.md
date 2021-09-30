@@ -18,10 +18,14 @@
 <br>
 <h2>About me:</h2>
 
+- 🔭 I’m currently web development student
 - 🌱 I’m currently learning Python, mongoDB
+- 👯 Always ready to collaborate for Dev Experiments
+- 💬 Ask me about HTML, CSS, JavaScript, React and bands 😆
 
+<br><br><br>
 
-<!-- [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo606&hide=stars,issues&count_private=true&theme=nord&show_icons=true)](https://github.com/leo606/) -->
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo606&hide=stars,issues&count_private=true&theme=nord&show_icons=true)](https://github.com/leo606/)
 <!--
 **leo606/leo606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
