@@ -18,10 +18,12 @@
 <br>
 <h2>About me:</h2>
 
-- 🔭 I’m currently web development student
-- 🌱 I’m currently learning Python, mongoDB
-- 👯 Always ready to collaborate for Dev Experiments
-- 💬 Ask me about HTML, CSS, JavaScript, React and bands 😆
+<ul>
+<li>🔭 I’m currently web development student</li>
+<li>🌱 I’m currently learning Python, mongoDB</li>
+<li>👯 Always ready to collaborate for Dev Experiments</li>
+<li>💬 Ask me about HTML, CSS, JavaScript, React and bands 😆</li>
+</ul>
 
 <br><br><br>
 
