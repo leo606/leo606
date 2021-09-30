@@ -1,7 +1,6 @@
-<h2 align="center">
-<br>Olá! Sou Leonardo Ferreira, estudante de desenvolvimento Web<br>
-</h2>
-<hr>
+<h1 align="center">
+<br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Leonardo Ferreira,<br>Web development student
+</h1>
 <br>
 <h2>Technologies and Tools I use:</h2>
 
@@ -19,7 +18,7 @@
 <br>
 <h2>About me:</h2>
 
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning Python, mongoDB
 
 
 <!-- [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo606&hide=stars,issues&count_private=true&theme=nord&show_icons=true)](https://github.com/leo606/) -->
