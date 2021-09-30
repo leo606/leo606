@@ -5,15 +5,15 @@
 <h2>Technologies and Tools I use:</h2>
 
 <p>
-    <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="html5 icon" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="css3 icon" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="javascript icon" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="react icon" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="redux icon" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="MySQL icon" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="git icon" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" style="background-color: whitesmoke; padding: 1px; border-radius: 3px" alt="git icon" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 icon" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 icon" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react icon" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" alt="redux icon" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL icon" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git icon" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="git icon" width="40" height="40"/> </a>
 </p>
 <br>
 <h2>About me:</h2>
