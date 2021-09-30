@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+Olá! Sou Leonardo Ferreira
+<br>
+<br>
+Estudante de desenvolvimento Web
+</h1>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo606&hide=stars,issues&count_private=true&theme=nord&show_icons=true)](https://github.com/leo606/)
 <!--
