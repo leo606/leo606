@@ -22,7 +22,7 @@
 <li>🔭 I’m currently web development student</li>
 <li>🌱 I’m currently learning Python, mongoDB</li>
 <li>👯 Always ready to collaborate for Dev Experiments</li>
-<li>💬 Ask me about HTML, CSS, JavaScript, React and bands 😆</li>
+<li>💬 Ask me about HTML, CSS, JavaScript, React and music 😆</li>
 </ul>
 
 <br><br><br>
