@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Leonardo Ferreira,<br>Web development student
+<br>Hi there! <img src="./wave.gif" width="30"> I'm Leonardo Ferreira,<br>Web development student
 </h1>
 <br>
 <h2>Technologies and Tools I use:</h2>
@@ -20,7 +20,7 @@
 
 <ul>
 <li>🔭 I’m currently web development student</li>
-<li>🌱 I’m currently learning Python, mongoDB</li>
+<li>🌱 I’m currently learning NodeJS</li>
 <li>👯 Always ready to collaborate for Dev Experiments</li>
 <li>💬 Ask me about HTML, CSS, JavaScript, React and music 😆</li>
 </ul>
