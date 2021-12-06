@@ -12,6 +12,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" alt="redux icon" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL icon" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="git icon" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git icon" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="git icon" width="40" height="40"/> </a>
 </p>
