@@ -5,15 +5,16 @@
 <h2>Technologies and Tools I use:</h2>
 
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux icon" width="60" height="60"/>
+    <img src="https://img.shields.io/badge/OS-linux-informational?style=for-the-badge&logo=linux" alt="linux icon"/>
+    <img src="https://img.shields.io/badge/code-HTML5-informational?style=for-the-badge&logo=html5" alt="html5 icon"/>
+    <img src="https://img.shields.io/badge/code-CSS3-informational?style=for-the-badge&logo=css3" alt="css3 icon"/>
+    <img src="https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=javascript" alt="javascript icon"/>
+    <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
+    <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react" alt="react icon"/>
+    <img src="https://img.shields.io/badge/code-redux-informational?style=for-the-badge&logo=redux" alt="redux icon"/>
+    <img src="https://img.shields.io/badge/DB-mongoDB-informational?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
+    <img src="https://img.shields.io/badge/DB-mysql-informational?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
+    <img src="https://img.shields.io/badge/scm-git-informational?style=for-the-badge&logo=git" alt="git icon"/>
 </p>
 <br>
 <h2>About me:</h2>
