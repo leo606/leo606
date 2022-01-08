@@ -5,16 +5,16 @@
 <h2>Technologies and Tools I use:</h2>
 
 <p>
-    <img src="https://img.shields.io/badge/linux-22272e?style=for-the-badge&logo=linux" alt="linux icon"/>
-    <img src="https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=html5" alt="html5 icon"/>
-    <img src="https://img.shields.io/badge/CSS3-22272e?style=for-the-badge&logo=css3" alt="css3 icon"/>
-    <img src="https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=javascript" alt="javascript icon"/>
-    <img src="https://img.shields.io/badge/node-22272e?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
-    <img src="https://img.shields.io/badge/react-22272e?style=for-the-badge&logo=react" alt="react icon"/>
-    <img src="https://img.shields.io/badge/redux-22272e?style=for-the-badge&logo=redux" alt="redux icon"/>
-    <img src="https://img.shields.io/badge/mongoDB-22272e?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
-    <img src="https://img.shields.io/badge/mysql-22272e?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
-    <img src="https://img.shields.io/badge/git-22272e?style=for-the-badge&logo=git" alt="git icon"/>
+    <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux icon"/>
+    <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&logo=html5" alt="html5 icon"/>
+    <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&logo=css3" alt="css3 icon"/>
+    <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript icon"/>
+    <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
+    <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
+    <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
+    <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
+    <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
+    <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git icon"/>
 </p>
 <br>
 <h2>About me:</h2>
