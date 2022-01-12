@@ -26,6 +26,7 @@
         <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
         <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
         <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
+        <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-2e3440?style=for-the-badge&logo=jsonwebtokens" alt="JSON Web Tokens icon"/>
     </p>
 
 <br>
