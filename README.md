@@ -3,24 +3,30 @@
 </h1>
 <br>
 <h2>Technologies and Tools</h2>
-    <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux icon"/>
-    <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git icon"/>
-    <img src="https://img.shields.io/badge/docker-2e3440?style=for-the-badge&logo=docker" alt="docker icon"/>
+    <p>
+        <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux icon"/>
+        <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git icon"/>
+        <img src="https://img.shields.io/badge/docker-2e3440?style=for-the-badge&logo=docker" alt="docker icon"/>
+    </p>
 
 <h3>Front-end</h3>
-    <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&logo=html5" alt="html5 icon"/>
-    <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&logo=css3" alt="css3 icon"/>
-    <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript icon"/>
-    <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
-    <img src="https://img.shields.io/badge/react%20router-2e3440?style=for-the-badge&logo=reactrouter" alt="redux icon"/>
-    <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
+    <p>
+        <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&logo=html5" alt="html5 icon"/>
+        <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&logo=css3" alt="css3 icon"/>
+        <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript icon"/>
+        <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
+        <img src="https://img.shields.io/badge/react%20router-2e3440?style=for-the-badge&logo=reactrouter" alt="redux icon"/>
+        <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
+    </p>
 
 <h3>Back-end</h3>
-    <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
-    <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express icon"/>
-    <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
-    <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
-    <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
+    <p>
+        <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
+        <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express icon"/>
+        <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
+        <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
+        <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
+    </p>
 
 <br>
 <h2>About me:</h2>
