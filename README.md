@@ -45,7 +45,7 @@
   <img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs?username=leo606&layout=compact&langs_count=7&theme=nord' alt='github statiscs'></img>
   <img height='150em' src='https://github-readme-stats.vercel.app/api?username=leo606&hide=stars,issues&count_private=true&theme=nord&show_icons=true' alt='github statiscs'></img>
   <br/>
-  <img src='https://visitor-badge.glitch.me/badge?page_id=leo606&left_color=2e3440&right_color=88c0d0' alt='github count'></img>
+  <img src='https://visitor-badge.glitch.me/badge?page_id=leo606&left_color=#2e3440&right_color=#88c0d0' alt='github count'></img>
 </div>
 
 <!--
