@@ -34,7 +34,7 @@
 
 <ul>
     <li>🔭 I’m currently web development student</li>
-    <li>🌱 I’m currently learning NodeJS</li>
+    <li>🌱 I’m currently learning Python</li>
     <li>👯 Always ready to collaborate for Dev Experiments</li>
     <li>💬 Ask me about HTML, CSS, JavaScript, React and music =)</li>
 </ul>
