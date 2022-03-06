@@ -34,7 +34,7 @@
     </p>
 
 <br>
-<h2>About me:</h2>
+<h2>About me</h2>
 
 <ul>
     <li>🔭 I’m currently web development student</li>
@@ -52,7 +52,7 @@
 
 <br>
 
-<h2>Reach me:</h2>
+<h2>Reach me</h2>
 
 <a href="https://www.linkedin.com/in/leonardolmf">
   <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn icon"/>
