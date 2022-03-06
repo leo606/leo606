@@ -51,7 +51,9 @@
 
 <h2>Reach me:</h2>
 
-<img src="https://img.shields.io/badge/linkedin-2e3440?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/leonardolmf" alt="LinkedIn icon"/>
+<a href="https://www.linkedin.com/in/leonardolmf">
+  <img src="https://img.shields.io/badge/linkedin-2e3440?style=for-the-badge&logo=linkedin" alt="LinkedIn icon"/>
+</a>
 
 <!--
 **leo606/leo606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
