@@ -52,7 +52,7 @@
 <h2>Reach me:</h2>
 
 <a href="https://www.linkedin.com/in/leonardolmf">
-  <img src="https://img.shields.io/badge/linkedin-2e3440?style=for-the-badge&logo=linkedin" alt="LinkedIn icon"/>
+  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn icon"/>
 </a>
 
 <!--
