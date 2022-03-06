@@ -12,6 +12,8 @@
         <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux icon"/>
         <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git icon"/>
         <img src="https://img.shields.io/badge/docker-2e3440?style=for-the-badge&logo=docker" alt="docker icon"/>
+        <img src="https://img.shields.io/badge/jest-2e3440?style=for-the-badge&logo=jest" alt="jest icon"/>
+        <img src="https://img.shields.io/badge/heroku-2e3440?style=for-the-badge&logo=heroku" alt="heroku icon"/>
     </p>
 
 <h3>Front-end</h3>
@@ -19,6 +21,7 @@
         <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
         <img src="https://img.shields.io/badge/react%20router-2e3440?style=for-the-badge&logo=reactrouter" alt="react router icon"/>
         <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
+        <img src="https://img.shields.io/badge/RTL-2e3440?style=for-the-badge&logo=testinglibrary" alt="rtl icon"/>
     </p>
 
 <h3>Back-end</h3>
