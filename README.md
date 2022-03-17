@@ -1,9 +1,5 @@
-<div align="center">
-  <h1>
-    <br>Hi! I'm Leonardo Ferreira
-  </h1>
-  <h2>Full-stack Web Development Student</h2>
-</div>
+<h1 align="center">Hi! I'm Leonardo Ferreira</h1>
+<h3 align="center">Full-stack Web Development Student</h3>
 
 <br>
 <h2>Technologies and Tools</h2>
