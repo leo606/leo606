@@ -1,6 +1,10 @@
-<h1 align="center">
-<br>Hi there! <img src="./wave.gif" width="30"> <br> I'm Leonardo Ferreira<br>Web development student
-</h1>
+<div align="center">
+  <h1>
+    <br>Hi! I'm Leonardo Ferreira
+  </h1>
+  <h2>Full-stack Web Development Student</h2>
+</div>
+
 <br>
 <h2>Technologies and Tools</h2>
     <p>
