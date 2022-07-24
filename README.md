@@ -1,9 +1,6 @@
-<h1 align="center">Hi! I'm Leonardo Ferreira</h1>
-<h3 align="center">Full-stack Web Development Student</h3>
-
-<br>
 <h2>Technologies and Tools</h2>
     <p>
+        <img src="https://img.shields.io/badge/Typescript-2e3440?style=for-the-badge&logo=typescript" alt="typescript icon"/>
         <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript icon"/>
         <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
         <img src="https://img.shields.io/badge/python-2e3440?style=for-the-badge&logo=python" alt="python icon"/>
@@ -19,6 +16,7 @@
 <h3>Front-end</h3>
     <p>
         <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
+        <img src="https://img.shields.io/badge/vue-2e3440?style=for-the-badge&logo=vue.js" alt="react icon"/>
         <img src="https://img.shields.io/badge/react%20router-2e3440?style=for-the-badge&logo=reactrouter" alt="react router icon"/>
         <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
         <img src="https://img.shields.io/badge/RTL-2e3440?style=for-the-badge&logo=testinglibrary" alt="rtl icon"/>
@@ -32,16 +30,6 @@
         <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
         <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-2e3440?style=for-the-badge&logo=jsonwebtokens" alt="JSON Web Tokens icon"/>
     </p>
-
-<br>
-<h2>About me</h2>
-
-<ul>
-    <li>🔭 I’m currently web development student</li>
-    <li>🌱 I’m currently learning Python</li>
-    <li>👯 Always ready to collaborate for Dev Experiments</li>
-    <li>💬 Ask me about HTML, CSS, JavaScript, React and music =)</li>
-</ul>
 
 <br>
 
