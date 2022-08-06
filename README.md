@@ -25,6 +25,7 @@
 <h3>Back-end</h3>
     <p>
         <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express icon"/>
+        <img src="https://img.shields.io/badge/nestjs-2e3440?style=for-the-badge&logo=nestjs" alt="nstjs icon"/>
         <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
         <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
         <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
