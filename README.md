@@ -25,11 +25,15 @@
 <h3>Back-end</h3>
     <p>
         <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express icon"/>
+        <img src="https://img.shields.io/badge/fastify-2e3440?style=for-the-badge&logo=fastify" alt="Fastify"/>
         <img src="https://img.shields.io/badge/nestjs-2e3440?style=for-the-badge&logo=nestjs" alt="nstjs icon"/>
         <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
         <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
-        <img src="https://img.shields.io/badge/sequelize-2e3440?style=for-the-badge&logo=sequelize" alt="Sequelize icon"/>
-        <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-2e3440?style=for-the-badge&logo=jsonwebtokens" alt="JSON Web Tokens icon"/>
+    </p>
+    
+ <h3>Learning</h3>
+    <p>
+        <img src="https://img.shields.io/badge/rust-2e3440?style=for-the-badge&logo=rust" alt="rust"/>
     </p>
 
 <br>
