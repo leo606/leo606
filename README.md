@@ -1,34 +1,31 @@
 <h2>Technologies and Tools</h2>
     <p>
-        <img src="https://img.shields.io/badge/Typescript-2e3440?style=for-the-badge&logo=typescript" alt="typescript icon"/>
-        <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript icon"/>
-        <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node icon"/>
-        <img src="https://img.shields.io/badge/python-2e3440?style=for-the-badge&logo=python" alt="python icon"/>
-        <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&logo=html5" alt="html5 icon"/>
-        <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&logo=css3" alt="css3 icon"/>
-        <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux icon"/>
-        <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git icon"/>
-        <img src="https://img.shields.io/badge/docker-2e3440?style=for-the-badge&logo=docker" alt="docker icon"/>
-        <img src="https://img.shields.io/badge/jest-2e3440?style=for-the-badge&logo=jest" alt="jest icon"/>
-        <img src="https://img.shields.io/badge/heroku-2e3440?style=for-the-badge&logo=heroku" alt="heroku icon"/>
+        <img src="https://img.shields.io/badge/typescript-2e3440?style=for-the-badge&logo=typescript" alt="typescript"/>
+        <img src="https://img.shields.io/badge/javaScript-2e3440?style=for-the-badge&logo=javascript" alt="javascript"/>
+        <img src="https://img.shields.io/badge/node-2e3440?style=for-the-badge&logo=nodedotjs" alt="node"/>
+        <img src="https://img.shields.io/badge/python-2e3440?style=for-the-badge&logo=python" alt="python"/>
+        <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&logo=html5" alt="html5"/>
+        <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&logo=css3" alt="css3"/>
+        <img src="https://img.shields.io/badge/linux-2e3440?style=for-the-badge&logo=linux" alt="linux"/>
+        <img src="https://img.shields.io/badge/git-2e3440?style=for-the-badge&logo=git" alt="git"/>
+        <img src="https://img.shields.io/badge/docker-2e3440?style=for-the-badge&logo=docker" alt="docker"/>
+        <img src="https://img.shields.io/badge/jest-2e3440?style=for-the-badge&logo=jest" alt="jest"/>
     </p>
 
 <h3>Front-end</h3>
     <p>
-        <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react icon"/>
-        <img src="https://img.shields.io/badge/vue-2e3440?style=for-the-badge&logo=vue.js" alt="react icon"/>
-        <img src="https://img.shields.io/badge/react%20router-2e3440?style=for-the-badge&logo=reactrouter" alt="react router icon"/>
-        <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux icon"/>
-        <img src="https://img.shields.io/badge/RTL-2e3440?style=for-the-badge&logo=testinglibrary" alt="rtl icon"/>
+        <img src="https://img.shields.io/badge/react-2e3440?style=for-the-badge&logo=react" alt="react"/>
+        <img src="https://img.shields.io/badge/vue-2e3440?style=for-the-badge&logo=vue.js" alt="react"/>
+        <img src="https://img.shields.io/badge/redux-2e3440?style=for-the-badge&logo=redux" alt="redux"/>
     </p>
 
 <h3>Back-end</h3>
     <p>
-        <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express icon"/>
+        <img src="https://img.shields.io/badge/express-2e3440?style=for-the-badge&logo=express" alt="express"/>
         <img src="https://img.shields.io/badge/fastify-2e3440?style=for-the-badge&logo=fastify" alt="Fastify"/>
-        <img src="https://img.shields.io/badge/nestjs-2e3440?style=for-the-badge&logo=nestjs" alt="nstjs icon"/>
-        <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb icon"/>
-        <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL icon"/>
+        <img src="https://img.shields.io/badge/nestjs-2e3440?style=for-the-badge&logo=nestjs" alt="nstjs"/>
+        <img src="https://img.shields.io/badge/mongoDB-2e3440?style=for-the-badge&logo=mongodb" alt="mongodb"/>
+        <img src="https://img.shields.io/badge/mysql-2e3440?style=for-the-badge&logo=mysql" alt="MySQL"/>
     </p>
     
  <h3>Learning</h3>
@@ -47,7 +44,7 @@
 
 <h2>Reach me</h2>
 
-<a href="https://www.linkedin.com/in/leonardolmf">
+<a href="https://www.linkedin.com/in/leonardolmf" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn icon"/>
 </a>
 
